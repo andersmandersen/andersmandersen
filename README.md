@@ -1,7 +1,7 @@
 
 ### Welcome!
 
-<img src = 'https://github.com/andersmandersen/andersmandersen/blob/master/images/eater.gif' alt = 'Awesome Matrix Code' align='right'/>
+<img src = 'https://github.com/andersmandersen/andersmandersen/blob/main/images/eater.gif?raw=true' />
 
 Welcome to my page! I'm a humble person, that are try harding to make the .Net world more open source and simplify the development process!
 Alot of my my inspiration comes from the Laravel community 🎉
