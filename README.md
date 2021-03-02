@@ -17,6 +17,6 @@ Alot of my my inspiration comes from the Laravel community 🎉
  
 ## 👷‍♂️ Current work
 
-* [Harbor - Development dependencies manager](https://github.com/andersmandersen/harbor)
+* [Harbor - Development dependencies manager for .Net Core](https://github.com/andersmandersen/harbor)
 * [TemporaryDirectory - Working with temporary directory made easy for .Net Core](https://github.com/andersmandersen/TemporaryDirectory)
  
