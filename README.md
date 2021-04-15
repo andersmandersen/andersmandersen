@@ -19,4 +19,6 @@ Alot of my my inspiration comes from the Laravel community 🎉
 
 * [Harbor - Development dependencies manager for .Net Core](https://github.com/andersmandersen/harbor)
 * [TemporaryDirectory - Working with temporary directory made easy for .Net Core](https://github.com/andersmandersen/TemporaryDirectory)
+* [GatewayAPI - .Net wrapper for GatewayAPI](https://github.com/andersmandersen/gatewayapi-dotnet)
+ 
  
