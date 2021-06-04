@@ -16,7 +16,7 @@ Alot of my my inspiration comes from the Laravel community 🎉
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=andersmandersen&layout=compact">
  
 ## 👷‍♂️ Current work
-
+* [Dotnet Ray - Debugging .Net with Ray to fix problems faster](https://github.com/andersmandersen/dotnet-ray)
 * [Harbor - Development dependencies manager for .Net Core](https://github.com/andersmandersen/harbor)
 * [TemporaryDirectory - Working with temporary directory made easy for .Net Core](https://github.com/andersmandersen/TemporaryDirectory)
 * [GatewayAPI - .Net wrapper for GatewayAPI](https://github.com/andersmandersen/gatewayapi-dotnet)
