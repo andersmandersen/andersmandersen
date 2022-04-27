@@ -1,16 +1,16 @@
 
 ### Welcome!
 
-<img src = 'https://github.com/andersmandersen/andersmandersen/blob/main/images/eater_v2.gif?raw=true' />
+<img src = 'https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif' />
 
-Welcome to my page! I'm a humble person, that are try harding to make the .Net world more open source and simplify the development process!
+Welcome to my page! I'm a humble person, that are trying harding to make more open source and simplify the development process!
 Alot of my my inspiration comes from the Laravel community 🎉
 
 ## 💻 Technologies
-
-* .Net Core, Blazor
-* VueJs
 * PHP - Laravel
+* VueJs
+* TailwindCSS
+* .Net Core, Blazor
 * Frontend and Backend Web Development
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=andersmandersen&layout=compact">
